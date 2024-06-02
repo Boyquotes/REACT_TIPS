@@ -16,4 +16,6 @@ WORDS GAME
 - https://github.com/omarmosharawi/wordScramble_JS
     https://omarmosharawi.github.io/wordScramble_JS/
 <img width="619" alt="wordScramble_JS" src="https://github.com/Boyquotes/REACT_TIPS/assets/417514/e77c259f-85f7-490c-9e9f-2a0639fa5398">
-
+- https://github.com/Aman00097/word-scramble
+    https://aman00097.github.io/word-scramble/
+<img width="558" alt="word-scramble-aman" src="https://github.com/Boyquotes/REACT_TIPS/assets/417514/6d71bd15-aa12-40d3-96ba-45660a30e127">
