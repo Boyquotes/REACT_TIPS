@@ -22,3 +22,7 @@ WORDS GAME
 - https://github.com/dasha-musienko/Word-Scramble-Game
     https://dasha-musienko.github.io/Word-Scramble-Game/
   <img width="671" alt="dasha-wordgame" src="https://github.com/Boyquotes/REACT_TIPS/assets/417514/3a4c209e-f8c7-483b-a2ab-06e14a67613d">
+- https://github.com/rayan2228/word-scramble
+  https://rayan2228.github.io/word-scramble/
+  <img width="608" alt="rayan-wrodgame" src="https://github.com/Boyquotes/REACT_TIPS/assets/417514/516dc653-e4bb-41a9-8ddd-14d270dbdced">
+
