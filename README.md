@@ -13,3 +13,7 @@ WORDS GAME
     https://word-scramble.pages.dev/
 - https://gz30eee.github.io/Word-Scramble-Game/
     https://github.com/GZ30eee/Word-Scramble-Game
+- https://github.com/omarmosharawi/wordScramble_JS
+    https://omarmosharawi.github.io/wordScramble_JS/
+<img width="619" alt="wordScramble_JS" src="https://github.com/Boyquotes/REACT_TIPS/assets/417514/e77c259f-85f7-490c-9e9f-2a0639fa5398">
+
