@@ -7,6 +7,8 @@ CMS
 
 WORDS GAME
 - https://github.com/jbaek1/ekreb EN / ES
+  <img width="603" alt="ekreb-scramble" src="https://github.com/Boyquotes/REACT_TIPS/assets/417514/c110e3dd-aa20-47da-a535-a33f189b87ca">
+
 - https://github.com/sonyafar/word-scramble
     https://word-scramble.pages.dev/
 - https://gz30eee.github.io/Word-Scramble-Game/
