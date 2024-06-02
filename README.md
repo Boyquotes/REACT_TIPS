@@ -19,3 +19,6 @@ WORDS GAME
 - https://github.com/Aman00097/word-scramble
     https://aman00097.github.io/word-scramble/
 <img width="558" alt="word-scramble-aman" src="https://github.com/Boyquotes/REACT_TIPS/assets/417514/6d71bd15-aa12-40d3-96ba-45660a30e127">
+- https://github.com/dasha-musienko/Word-Scramble-Game
+    https://dasha-musienko.github.io/Word-Scramble-Game/
+  <img width="671" alt="dasha-wordgame" src="https://github.com/Boyquotes/REACT_TIPS/assets/417514/3a4c209e-f8c7-483b-a2ab-06e14a67613d">
